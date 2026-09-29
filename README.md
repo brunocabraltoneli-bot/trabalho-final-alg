@@ -1,6 +1,6 @@
 # Sistema de Atendimento e Pedidos - Lanchonete
 
-**Estudante:** [Bruno Cabral Toneli]  
+**Estudante:** Bruno Cabral Toneli
 **Disciplina:** Algoritmos e Programação  
 **Linguagem:** Python  
 
